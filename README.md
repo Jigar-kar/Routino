@@ -55,7 +55,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/routino.git
+   git clone https://github.com/Jiggar-kar/routino.git
    cd routino
    ```
 
