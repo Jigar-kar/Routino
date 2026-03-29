@@ -25,7 +25,7 @@ Built with **Flutter**, **Riverpod**, and **Sqflite**, Routino respects your pri
 
 *(Replace these placeholders with your actual app screenshots)*
 
-|<img src="https://via.placeholder.com/250x500.png?text=Dashboard" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Tasks" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Settings" width="200"/>|
+|<img src="https://raw.githubusercontent.com/Jigar-kar/Routino/2b0c4d67e078a05780d80a2e59bd321c888bdb8b/Screenshot/WhatsApp%20Image%202026-03-29%20at%209.57.26%20PM.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/Jigar-kar/Routino/2b0c4d67e078a05780d80a2e59bd321c888bdb8b/Screenshot/WhatsApp%20Image%202026-03-29%20at%209.57.25%20PM.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/Jigar-kar/Routino/2b0c4d67e078a05780d80a2e59bd321c888bdb8b/Screenshot/WhatsApp%20Image%202026-03-29%20at%209.57.26%20PM%20(1).jpeg" width="200"/>|
 |:---:|:---:|:---:|
 | **Dashboard** | **Tasks & Notifications** | **Custom Themes** |
 
